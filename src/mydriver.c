@@ -20,8 +20,6 @@ void test1()
 	int* i = my_malloc(800);
 	int* j = my_malloc(512);
 
-
-
 	my_free(f);
 	my_free(a);
 	my_free(c);
